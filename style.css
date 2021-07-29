@@ -1,0 +1,76 @@
+/* font  */
+    .font {
+font-family: 'Poppins', sans-serif;
+    }
+
+/* header  */
+.header-bg {
+    background-color:  #264653;
+    color: #E0E0E0;
+}
+
+.modal-content {
+    color: black;
+}
+
+.we {
+    font-weight: bold;
+}
+
+
+.btn {
+    background-color: #E76F51;  
+}
+
+
+/* features part  */
+.all {
+    color: #E76F51;
+}
+
+.gray {
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+
+
+/* clients part  */
+.card-text {
+    color:  #6C6C6C;
+    
+}
+
+.sky {
+    color: #23A6F0;
+    text-align: center;
+}
+
+
+/* FAQ  */
+
+.accordion-body {
+    color: gray;
+   
+}
+
+/* footer  */
+ .last {
+     background-color: black;
+    width: 100%;
+ }
+
+ .deco {
+    text-decoration: none;
+    color: white;
+ }
+
+ .copy {
+     color: #D9DBE1;
+ }
+
+
+/* video part  */
+ .video {
+    text-align: center;
+    padding-bottom: 40px;
+ }
